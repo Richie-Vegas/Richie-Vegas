@@ -1,32 +1,28 @@
-👋 Hello there! I'm Richard Ddamulira, a computer scientist and software developer with a passion for crafting robust and scalable solutions. 
-My journey in the world of technology is fueled by curiosity, a love for clean code, 
-and a commitment to continuous learning.
-
+👋 Hello! I'm Richard Ddamulira — a Computer Scientist, Software Developer, and GIS Analyst passionate about building robust, scalable solutions and harnessing the power of geospatial data. My journey in tech is driven by curiosity, clean code, and a steadfast commitment to continuous learning.
 
 👨‍💻 About Me
+🎓 Education: Bachelor's degree in Computer Science from Ndejje University.
+
+🗺️ Dual Expertise: Software Development & Geospatial Information Systems (GIS).
+
+💡 Interests: Web App Development 🖥️, Data Science 📊, Geospatial Analysis 📍, and Football ⚽.
+
+🚀 Tech Focus: Full-stack development with a passion for integrating location intelligence into real-world applications.
+
+🌍 Mission: Building technology — and spatial solutions — that make a positive impact on people's lives.
+
+📚 Lifelong learner: Always exploring emerging technologies and geospatial innovations.
+
+🎬 Downtime: Enjoy watching movies and series.
+
+💬 Ask me about: Anything from clean architecture to cartography. I'm happy to help.
+
+📫 Reach me: richardddamulira7@gmail.com
+
+🛠️ Tech Stack & GIS Toolkit
+Languages: JavaScript (Node.js, React), Python, Java, C#, C++, HTML/CSS
+Databases: MongoDB, MySQL, PostgreSQL (including PostGIS)
+GIS & Spatial Tools:  ArcGIS, Leaflet, Mapbox, GeoPandas, raster/vector analysis, spatial data visualization
 
 
-
-💼 I’ve completed my Bachelor's degree in Computer science  at Ndejje university ;
-
-🤔 My interests are with Web App Development 🖥️, Data Science 📊, football ,  etc..;
-
-💡 Exploring the intersection of technology and innovation.
-
-🚀 Full-stack developer with expertise in some front-end and back-end technologies.
-
-🌐 Building applications that make a positive impact on people's lives.
-
-📚 Lifelong learner committed to staying at the forefront of emerging technologies.
-
-🎬 I love watching movies and series 
-
-💬 Ask me about anything, I am happy to help;
-
-📫 Please email via richardddamulira7@gmail.com 
-
-🛠️ Tech Stack
-
-Languages: JavaScript (Node.js, React), Python, Java,c#, c++,C,HTML/CSS:
-Databases: MongoDB, MySQL,
 
